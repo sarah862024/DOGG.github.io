@@ -15,7 +15,7 @@ p {
   <body 
   background="https://cdn.pixabay.com/photo/2014/05/03/00/45/record-336626_960_720.jpg">
    
-<html>
+
 <head>
 <title>Page Title</title>
 </head>
@@ -45,4 +45,4 @@ p {
 </ul>
 </center>
 </body>
-</html>
+
