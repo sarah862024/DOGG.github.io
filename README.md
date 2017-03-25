@@ -1,5 +1,3 @@
-
-
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
 p {
@@ -88,7 +86,7 @@ p {
 </p>
 <ul>
 資工二甲 404261220 黃芷珊
-</ul>
-</center>
+</ul></center>
+
 </body>
 </html>
