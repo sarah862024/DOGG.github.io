@@ -10,6 +10,9 @@ p {
     color: #000000	;
     font-weight:bold;
   }
+  body{
+  background-size:cover;
+  }
 </style>
 
   <body 
@@ -43,6 +46,4 @@ p {
 <ul>
 資工二甲 404261220 黃芷珊
 </ul>
-</center>
-</body>
 
