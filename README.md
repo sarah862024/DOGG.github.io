@@ -16,7 +16,7 @@ p {
 </style>
 
   <body 
-  background="https://github.com/sarah862024/DOGG.github.io/blob/master/%E8%83%8C%E6%99%AF.jpg?raw=true">
+  background="https://github.com/sarah862024/DOGG.github.io/blob/master/%E7%8B%97%E8%83%8C%E6%99%AF.jpg?raw=true">
    
 
 <head>
