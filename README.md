@@ -40,15 +40,15 @@ p {
 <p>　</p> 
 <p>
 ------------------------------------------------------------------------------<p>
-舔鼻子：安撫陌生的對方<p>
+舔鼻子：安撫陌生的對方<p><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E9%BB%91%E7%8B%97.jpg?raw=true" width="20%" style="float:right;">
+</p>
 舔對方臉：歡迎對方<p>
 打呵欠：覺得有壓力、不安<p>
 站起來用腳抓你：想找你玩<p>
 肚子朝上：認輸臣服<p>
 露出牙齒低吼或狂吠：生氣，警告對方不要靠近<p>
 ------------------------------------------------------------------------------<p>
-<img src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E9%BB%91%E7%8B%97.jpg?raw=true" width="40%" style="float:right;">
-</p>
+
 <ul>
 資工二甲 404261220 黃芷珊
 </ul>
