@@ -47,6 +47,7 @@ p {
 肚子朝上：認輸臣服<p>
 露出牙齒低吼或狂吠：生氣，警告對方不要靠近<p>
 ------------------------------------------------------------------------------<p>
+<img src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E9%BB%91%E7%8B%97.jpg?raw=true" width="40%" style="float:right;">
 </p>
 <ul>
 資工二甲 404261220 黃芷珊
