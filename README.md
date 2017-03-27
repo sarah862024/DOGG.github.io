@@ -17,6 +17,7 @@ p {
   .border {
     border-style: solid;
     border-radius: 50%;
+    width:20%;
   }
 </style>
 
@@ -34,7 +35,7 @@ p {
 <p style="color:gray;">在想什麼?</p>
     <div class="row">
     <div class="col-xs-4">
-<img class="border" src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E7%8B%97.jpg?raw=true" width="40%">
+<img src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E7%8B%97.jpg?raw=true" width="40%">
 <img src="https://github.com/sarah862024/DOGG.github.io/blob/master/republic-of-korea-1877033_960_720.jpg?raw=true" width="40%">
 </div>
 </div>
@@ -44,7 +45,7 @@ p {
 <p>　</p> 
 <p>　</p> 
 <p>
-------------------------------------------------------------------------------<p><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E9%BB%91%E7%8B%97.jpg?raw=true" width="20%" style="float:right;">
+------------------------------------------------------------------------------<p><img class="border"  src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E9%BB%91%E7%8B%97.jpg?raw=true">
 舔鼻子：安撫陌生的對方<p>
 舔對方臉：歡迎對方<p>
 打呵欠：覺得有壓力、不安<p>
