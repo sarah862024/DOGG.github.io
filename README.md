@@ -13,7 +13,7 @@ p {
 </style>
 
   <body 
-  background="https://www.turboimagehost.com/p/34465410/6828592jpg.html">
+  background="https://github.com/sarah862024/DOGG.github.io/blob/master/%E8%83%8C%E6%99%AF.jpg?raw=true">
    
 
 <head>
@@ -26,8 +26,8 @@ p {
 <p style="color:gray;">在想什麼?</p>
     <div class="row">
     <div class="col-xs-4">
-<img src="https://cdn.pixabay.com/photo/2016/11/01/10/29/animal-1787835_960_720.jpg" width="40%">
-<img src="https://cdn.pixabay.com/photo/2016/12/02/06/36/republic-of-korea-1877033_960_720.jpg" width="40%">
+<img src="https://github.com/sarah862024/DOGG.github.io/blob/master/%E7%8B%97.jpg?raw=true" width="40%">
+<img src="https://github.com/sarah862024/DOGG.github.io/blob/master/republic-of-korea-1877033_960_720.jpg?raw=true" width="40%">
 </div>
 </div>
 
