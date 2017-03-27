@@ -2,12 +2,12 @@
 <style>
 p {
     font-size: 15px;
-    color: #888888	;
+    color: #666666;
     font-weight:bold;
   }
   ul {
     font-size: 16px;
-    color: #000000	;
+    color: white	;
     font-weight:bold;
   }
   body{
