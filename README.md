@@ -33,7 +33,11 @@ p {
 <img src="https://github.com/sarah862024/DOGG.github.io/blob/master/republic-of-korea-1877033_960_720.jpg?raw=true" width="40%">
 </div>
 </div>
-
+<p>
+<p>
+<p>
+<p>
+<p>
 <p>
 ------------------------------------------------------------------------------<p>
 舔鼻子：安撫陌生的對方<p>
