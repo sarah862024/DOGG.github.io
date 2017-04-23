@@ -1,3 +1,7 @@
+
+
+
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
 p {
@@ -24,6 +28,33 @@ p {
 <title>Page Title</title>
 </head>
 <body>
+<div id="slider_scroll">
+		<div id="tab">
+			<span>A</span>
+			<span>B</span>
+			<span>O</span>
+			<span>U</span>
+			<span>T</span>
+			<span> </span>
+			<span>M</span>
+			<span>E</span>
+		</div>
+		<div id="slider_content">
+			<div>
+				<a href="https://www.facebook.com/profile.php?id=100001776421309">FaceBook</a>
+			</div>
+            <span> </span>
+            <span> </span>
+			<div>
+				<a href="https://www.instagram.com/14_shan/">Instagram</a>
+			</div>
+            <span> </span>
+            <span> </span>
+			<div>
+				<a href="http://www3.csie.fju.edu.tw/layout/oneblue/vvindex.jsp">My University</a>
+			</div>
+		</div>
+	</div>
 <center>
 
 <h1 style="color:black;">狗</h1>
