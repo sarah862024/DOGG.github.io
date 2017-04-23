@@ -64,19 +64,12 @@ p {
     <div class="col-xs-6">
       
       <div class="well" id="left-well">
-        <button class="btn btn-default target" id="target1">#target1</button>
-        <button class="btn btn-default target" id="target2">#target2</button>
-        <button class="btn btn-default target" id="target3">#target3</button>
+        <button class="btn btn-default target" id="target1" onclick="location.href=https://www.facebook.com/profile.php?id=100001776421309"><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/FB.png?raw=true"></button>
+        <button class="btn btn-default target" id="target2" onclick="location.href=https://www.instagram.com/14_shan/"><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/IG.jpg?raw=true"></button>
+        <button class="btn btn-default target" id="target3" onclick="location.href=http://www3.csie.fju.edu.tw/"><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/logo1.png?raw=true"></button>
       </div>
     </div>
-    <div class="col-xs-6">
-      
-      <div class="well" id="right-well">
-        <button class="btn btn-default target" id="target4">#target4</button>
-        <button class="btn btn-default target" id="target5">#target5</button>
-        <button class="btn btn-default target" id="target6">#target6</button>
-      </div>
-    </div>
+    
   </div>
 </div>
     </html>
