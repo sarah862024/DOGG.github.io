@@ -1,5 +1,5 @@
 <script>
-  $(document).ready(function() {
+  $(function() {
     $("#button1").css("color", "blue");
     $("#button2").css("color", "red");
     $("#button3").css("color", "green");
