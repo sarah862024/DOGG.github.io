@@ -55,6 +55,9 @@ p {
 ------------------------------------------------------------------------------<p>
 </p>
 <ul>
+About Me
+</ul>
+<ul>
 資工二甲 404261220 黃芷珊
 </ul>
 
@@ -62,7 +65,10 @@ p {
   
   <div class="row">
     <div class="col-xs-6">
-      <input type="button" value="My Facebook" onclick="window.location='https://www.facebook.com/profile.php?id=100001776421309';" />
+    
+      <input type="button" value="Facebook" onclick="window.location='https://www.facebook.com/profile.php?id=100001776421309';" />
+      <input type="button" value="Instagram" onclick="window.location='https://www.instagram.com/14_shan/';" />
+      <input type="button" value="University" onclick="window.location='http://www3.csie.fju.edu.tw/';" />
      
 
       </div>
