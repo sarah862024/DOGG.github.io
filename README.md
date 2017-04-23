@@ -64,11 +64,10 @@ p {
     <div class="col-xs-6">
       
       <div class="well" id="left-well">
-        <button type="button" id="target1" onclick="'location.href=https://www.facebook.com/profile.php?id=100001776421309'"  style="width:120px;height:40px;font-size:20px;"><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/FB.png?raw=true"></button>
-        <button type="button" id="target2" onclick="'location.href=https://www.instagram.com/14_shan/'"  style="width:120px;height:40px;font-size:20px;"><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/IG.jpg?raw=true"></button>
-        <button type="button" id="target3" onclick="'location.href=http://www3.csie.fju.edu.tw/'"  style="width:120px;height:40px;font-size:20px;"><img src="https://github.com/sarah862024/DOGG.github.io/blob/master/logo1.png?raw=true"></button>
-      </div>
-    </div>
+      <button onclick="self.location.href='https://www.facebook.com/profile.php?id=100001776421309'"style="width:1px;height:1px;" >
+<img src= "https://github.com/sarah862024/DOGG.github.io/blob/master/FB.png?raw=true"> </button>
+
+      
     
   </div>
 </div>
