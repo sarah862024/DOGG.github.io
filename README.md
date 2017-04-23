@@ -1,6 +1,12 @@
-
-
-
+<script>
+  $(document).ready(function() {
+    $("#button1").css("color", "blue");
+    $("#button2").css("color", "red");
+    $("#button3").css("color", "green");
+    $("#button1").addClass("animated bounce");
+    $("#button2").addClass("animated shake");
+  });
+</script>
 <html>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
