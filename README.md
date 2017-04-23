@@ -63,11 +63,7 @@ p {
   <div class="row">
     <div class="col-xs-6">
       <input type="button" value="My Facebook" onclick="window.location='https://www.facebook.com/profile.php?id=100001776421309';" />
-      
-      <div class="well" id="left-well">
-      <button onclick="self.location.href='https://www.facebook.com/profile.php?id=100001776421309';"style="width:1px;height:1px;" >
-<img src= "https://github.com/sarah862024/DOGG.github.io/blob/master/FB.png?raw=true"> </button>
-
+     
 
       </div>
     </div>
