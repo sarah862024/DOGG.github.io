@@ -1,7 +1,7 @@
 
 
 
-
+<html>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
 p {
@@ -28,33 +28,7 @@ p {
 <title>Page Title</title>
 </head>
 <body>
-<div id="slider_scroll">
-		<div id="tab">
-			<span>A</span>
-			<span>B</span>
-			<span>O</span>
-			<span>U</span>
-			<span>T</span>
-			<span> </span>
-			<span>M</span>
-			<span>E</span>
-		</div>
-		<div id="slider_content">
-			<div>
-				<a href="https://www.facebook.com/profile.php?id=100001776421309">FaceBook</a>
-			</div>
-            <span> </span>
-            <span> </span>
-			<div>
-				<a href="https://www.instagram.com/14_shan/">Instagram</a>
-			</div>
-            <span> </span>
-            <span> </span>
-			<div>
-				<a href="http://www3.csie.fju.edu.tw/layout/oneblue/vvindex.jsp">My University</a>
-			</div>
-		</div>
-	</div>
+
 <center>
 
 <h1 style="color:black;">狗</h1>
@@ -83,4 +57,27 @@ p {
 <ul>
 資工二甲 404261220 黃芷珊
 </ul>
+
+<div class="container-fluid">
+  
+  <div class="row">
+    <div class="col-xs-6">
+      
+      <div class="well" id="left-well">
+        <button class="btn btn-default target" id="target1">#target1</button>
+        <button class="btn btn-default target" id="target2">#target2</button>
+        <button class="btn btn-default target" id="target3">#target3</button>
+      </div>
+    </div>
+    <div class="col-xs-6">
+      
+      <div class="well" id="right-well">
+        <button class="btn btn-default target" id="target4">#target4</button>
+        <button class="btn btn-default target" id="target5">#target5</button>
+        <button class="btn btn-default target" id="target6">#target6</button>
+      </div>
+    </div>
+  </div>
+</div>
+    </html>
 
