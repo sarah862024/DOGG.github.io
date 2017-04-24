@@ -1,15 +1,15 @@
   <script type='text/javascript' src='https://code.jquery.com/jquery-1.9.1.min.js'></script>
   <script type='text/javascript'>
     $(document).ready(function() {
-     $("#button1").css("color", "white");
-     $("#button1").css("background", "blue");
+     $("#button1").css("color", "blue");
+     $("#button1").css("background", "white");
     $("#button2").css("color", "red");
     $("#button2").css("background", "white");
     $("#button3").css("color", "green");
     $("#button3").css("background", "white");
       $("#button1").mouseenter(function(){
-        $("#button1").css("color", "blue");
-        $("#button1").css("background", "white");
+        $("#button1").css("color", "white");
+        $("#button1").css("background", "blue");
       });
        $("#button2").mouseenter(function(){
         $("#button2").css("color", "white");
@@ -20,8 +20,8 @@
         $("#button3").css("background", "green");
       });
       $("#button1").mouseout(function(){
-        $("#button1").css("color", "white");
-        $("#button1").css("background", "blue");
+        $("#button1").css("color", "blue");
+        $("#button1").css("background", "white");
       });
        $("#button2").mouseout(function(){
         $("#button2").css("color", "red");
