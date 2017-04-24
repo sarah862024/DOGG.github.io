@@ -1,6 +1,10 @@
   <script type='text/javascript' src='https://code.jquery.com/jquery-1.9.1.min.js'></script>
   <script type='text/javascript'>
     $(document).ready(function() {
+    $("#button1").mouseenter(function(){
+        $("#button1").css("color", "yellow");
+        $("#button1").css("background", "blue");
+      });
      $("#button1").css("color", "blue");
     $("#button2").css("color", "red");
     $("#button3").css("color", "green");
