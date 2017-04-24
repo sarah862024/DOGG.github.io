@@ -3,7 +3,7 @@
     $(document).ready(function() {
      $("#button1").css("color", "white");
      $("#button1").css("background", "blue");
-    $("#button2").css("color", "pink");
+    $("#button2").css("color", "red");
     $("#button2").css("background", "white");
     $("#button3").css("color", "green");
     $("#button3").css("background", "white");
@@ -12,19 +12,19 @@
         $("#button1").css("background", "white");
       });
        $("#button2").mouseenter(function(){
-        $("#button2").css("color", "pink");
-        $("#button2").css("background", "gray");
+        $("#button2").css("color", "white");
+        $("#button2").css("background", "red");
       });
       $("#button3").mouseenter(function(){
-        $("#button3").css("color", "green");
-        $("#button3").css("background", "gray");
+        $("#button3").css("color", "white");
+        $("#button3").css("background", "green");
       });
       $("#button1").mouseout(function(){
         $("#button1").css("color", "white");
         $("#button1").css("background", "blue");
       });
        $("#button2").mouseout(function(){
-        $("#button2").css("color", "pink");
+        $("#button2").css("color", "red");
         $("#button2").css("background", "white");
       });
        $("#button3").mouseout(function(){
