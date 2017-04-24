@@ -1,12 +1,17 @@
-<script>
-  $(function() {
-    $("#button1").css("color", "blue");
+  <script type='text/javascript' src='https://code.jquery.com/jquery-1.9.1.min.js'></script>
+  <script type='text/javascript'>
+    $(document).ready(function() {
+     $("#button1").css("color", "blue");
     $("#button2").css("color", "red");
     $("#button3").css("color", "green");
     $("#button1").addClass("animated bounce");
     $("#button2").addClass("animated shake");
-  });
-</script>
+      });
+    });
+  </script>
+
+
+
 <html>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
@@ -68,10 +73,8 @@ About Me
 </ul>
 
 <div class="container-fluid">
-  
   <div class="row">
     <div class="col-xs-6">
-    
       <input type="button" id="button1" value="Facebook" onclick="window.location='https://www.facebook.com/profile.php?id=100001776421309';" />
       <input type="button" id="button2" value="Instagram" onclick="window.location='https://www.instagram.com/14_shan/';" />
       <input type="button" id="button3" value="University" onclick="window.location='http://www3.csie.fju.edu.tw/';" />
