@@ -31,6 +31,7 @@
         $("#button3").css("color", "green");
         $("#button3").css("background", "white");
       });
+      $("uuu").addClass("animated bounce");
     });
   </script>
 
@@ -89,7 +90,7 @@ p {
 露出牙齒低吼或狂吠：生氣，警告對方不要靠近<p>
 ------------------------------------------------------------------------------<p>
 </p>
-<ul>
+<ul id="uuu">
 About Me
 </ul>
 <ul>
