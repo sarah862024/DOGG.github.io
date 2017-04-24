@@ -1,21 +1,14 @@
   <script type='text/javascript' src='https://code.jquery.com/jquery-1.9.1.min.js'></script>
   <script type='text/javascript'>
     $(document).ready(function() {
-   $(document).ready(function() {
-      $("#fb").mouseenter(function(){
-        $("#fb").css("color", "yellow");
-        $("#fb").css("background", "blue");
-      });
-      $("#fb").mouseout(function(){
-        $("#fb").css("color", "blue");
-        $("#fb").css("background", "yellow");
-      });
+
+     
      $("#button1").css("color", "blue");
     $("#button2").css("color", "red");
     $("#button3").css("color", "green");
     $("#button1").addClass("animated bounce");
     $("#button2").addClass("animated shake");
-      });
+     
     });
   </script>
 
@@ -87,7 +80,7 @@ About Me
       <input type="button" class="btn" id="button1" value="Facebook" onclick="window.location='https://www.facebook.com/profile.php?id=100001776421309';" />
       <input type="button" id="button2" value="Instagram" onclick="window.location='https://www.instagram.com/14_shan/';" />
       <input type="button" id="button3" value="University" onclick="window.location='http://www3.csie.fju.edu.tw/';" />
-      <button class="btn" id="fb" onclick="href='https://www.facebook.com/yuwie.chang'">Facebook</button>
+      
       </div>
     </div>  
   </div>
