@@ -1,23 +1,35 @@
   <script type='text/javascript' src='https://code.jquery.com/jquery-1.9.1.min.js'></script>
   <script type='text/javascript'>
     $(document).ready(function() {
-     $("#button1").css("color", "blue");
-     $("#button1").css("background", "white");
-    $("#button2").css("color", "red");
+     $("#button1").css("color", "white");
+     $("#button1").css("background", "blue");
+    $("#button2").css("color", "pink");
     $("#button2").css("background", "white");
     $("#button3").css("color", "green");
     $("#button3").css("background", "white");
       $("#button1").mouseenter(function(){
-        $("#button1").addClass("animated shake");
-        $("#button1").css("background", "gray");
+        $("#button1").css("color", "blue");
+        $("#button1").css("background", "white");
       });
        $("#button2").mouseenter(function(){
-        $("#button2").addClass("animated bounce");
+        $("#button2").css("color", "pink");
         $("#button2").css("background", "gray");
       });
       $("#button3").mouseenter(function(){
-        $("#button3").addClass("animated shake");
+        $("#button3").css("color", "green");
         $("#button3").css("background", "gray");
+      });
+      $("#button1").mouseout(function(){
+        $("#button1").css("color", "white");
+        $("#button1").css("background", "blue");
+      });
+       $("#button2").mouseout(function(){
+        $("#button2").css("color", "pink");
+        $("#button2").css("background", "white");
+      });
+       $("#button3").mouseout(function(){
+        $("#button3").css("color", "green");
+        $("#button3").css("background", "white");
       });
     });
   </script>
